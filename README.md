@@ -41,10 +41,10 @@ Tech** after.
 
 ## Currently
 
-- **Finishing** — Dev Academy Ngahuru 2026 cohort. Final group project starts this week; two career-prep weeks after
-- **Applied** — Dev Academy AI Launchpad (27 July → 3 December 2026); interviewing this week
-- **Then** — Summer of Tech 2026/27 (December → March)
-- **Side builds** — personal projects are how I keep skills honed and pick up new stacks. Currently refining Atlas + designing bright-fit. Learning by building: Astro (used for vixenz.dev — no prior knowledge), Supabase, deeper Cloudflare
+- **Now** — Dev Academy AI Launchpad (27 July → 13 November 2026). Just finished the group project on [Buzz](https://github.com/launchpad-26/buzz), an open-source hive-mind communication platform. I owned the documentation corpus — 233 files covering architecture, schema, standards and capabilities
+- **Building** — **The Professor**, a skill that creates docs, maintains them and vets them, all in one. Docs are my least favourite job, so I automated the whole loop rather than just the first draft. Built for Buzz, finishing it for myself
+- **Also building** — [agent-verification-kit](https://github.com/serina-mcfall/agent-verification-kit) and a test automation suite. Both started for Buzz and outgrew it — I wanted tools I could use anywhere, on any project
+- **Applied** — Summer of Tech 2026/27
 
 ## Projects
 
