@@ -80,11 +80,16 @@ Tech** after.
 | | |
 |---|---|
 | **Languages** | TypeScript · JavaScript |
-| **Frontend** | React · Astro · Vite · CSS Modules · MDX |
-| **Backend** | Express · Knex · SQLite |
+| **Frontend** | React · Next.js · Astro · Vite · CSS Modules · MDX |
+| **Backend** | Express · Knex · SQLite · Postgres · Supabase |
+| **Agentic / AI** | Claude Code skills + hooks · agent orchestration · LLM APIs |
 | **Testing** | Vitest · Playwright · axe-core |
-| **Deploy** | Cloudflare Pages · Render |
-| **On the horizon** | Postgres · Supabase · React Native + Expo · Cloudflare Workers · LLM APIs / AI agents |
+| **Deploy** | Cloudflare Pages · Cloudflare Workers · Render |
+| **Learning** | Python · Docker · Rust |
+| **Next up** | Kubernetes · React Native + Expo |
+
+I learn new tech by building something with it. Astro became this site, Python became
+[loom](https://github.com/serina-mcfall/loom) and the Learning Companion, Next.js became Avalúne.
 
 ## Connect
 
