@@ -1,6 +1,6 @@
 # Hi — I'm Serina
 
-Junior dev in Auckland. AuDHD mum, career-pivot at 45. Accessibility-first.
+Software Developer in Auckland. AuDHD mum, career-pivot at 45. Accessibility-first.
 
 ## Why I'm here
 
