@@ -73,5 +73,5 @@ Tech** after.
 ## Connect
 
 - **Portfolio** — [vixenz.dev](https://vixenz.dev) — case studies, blog, CV
-- **LinkedIn** — [linkedin.com/in/YOUR-SLUG-HERE](https://www.linkedin.com/in/YOUR-SLUG-HERE) *(refreshing this week)*
+- **LinkedIn** — [linkedin.com/in/serinamcfall](https://www.linkedin.com/in/serinamcfall)
 - **Best reach** — LinkedIn DM, or via the contact page at vixenz.dev
