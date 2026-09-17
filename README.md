@@ -63,6 +63,7 @@ Tech** after.
 | [Atlas](https://github.com/serina-mcfall/atlas) | A visual concept library, accessibility-first. Topic-coded cards on a dark canvas | On hold |
 | [Moonlit Library](https://github.com/serina-mcfall/moonlit-library) | A personal book library — designed for the way I actually read | Deployed |
 | [vixenz-portfolio](https://github.com/serina-mcfall/vixenz-portfolio) | The source for [vixenz.dev](https://vixenz.dev). Built in Astro — new stack for me, learning by doing | Deployed |
+| [Kiwicom](https://github.com/serina-mcfall/Kiwicom) | A community hub for developers to discover, share and collaborate on open-source projects. Dev Academy final group project | On hiatus |
 
 ### In design
 
