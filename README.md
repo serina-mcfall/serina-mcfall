@@ -48,14 +48,29 @@ Tech** after.
 
 ## Projects
 
+> **I build the guardrails, not just the prompts.**
+
+### Built and building
+
 | Project | What it is | Status |
 |---|---|---|
-| [Atlas](https://github.com/serina-mcfall/atlas) | A visual concept library, accessibility-first. Topic-coded cards on a dark canvas | Current active build |
-| [Moonlit Library](https://github.com/serina-mcfall/moonlit-library) | A personal book library — designed for the way I actually read | Deployed; Dev Academy personal project |
+| [agent-verification-kit](https://github.com/serina-mcfall/agent-verification-kit) | Test automation and verification for agentic coding. Ships hooks, not only skills — a skill is advice, a hook is a gate | Active |
+| serina-skills | My skills library — the review gate, QA, planning and build pipelines I use on every project | Going public |
+| [Buzz](https://github.com/launchpad-26/buzz) | Open-source hive-mind communication platform. I owned the documentation corpus — 233 files across architecture, schema, standards and capabilities | Launchpad group project, complete |
+| [loom](https://github.com/serina-mcfall/loom) | A dashboard over a fleet of coding agents working in parallel git worktrees | Shipped |
+| [agent-hooks-case-study](https://github.com/serina-mcfall/agent-hooks-case-study) | Seven Claude Code hooks, and the case study of finding four had never worked once. Published with two defects still live, stated before the install instructions | Shipped |
+| Avalúne | Next.js site for my shared fantasy universe. Accessibility rules enforced in the build, not left to memory | Private, active |
+| [Atlas](https://github.com/serina-mcfall/atlas) | A visual concept library, accessibility-first. Topic-coded cards on a dark canvas | On hold |
+| [Moonlit Library](https://github.com/serina-mcfall/moonlit-library) | A personal book library — designed for the way I actually read | Deployed |
 | [vixenz-portfolio](https://github.com/serina-mcfall/vixenz-portfolio) | The source for [vixenz.dev](https://vixenz.dev). Built in Astro — new stack for me, learning by doing | Deployed |
-| Brightly Wired | NZ neurodiverse community platform, co-built with my husband. Umbrella for bright-fit + Learning Companion below | Planning phase, long-term |
-| bright-fit | ND-friendly employer directory + application tracker — a resource tool under Brightly Wired | In design |
-| Learning Companion | AI study companion shaped for ND brains. Lives under Brightly Wired; the main reason I've applied for AI Launchpad (to learn to build with AI agents) | Future-vision |
+
+### In design
+
+| Project | What it is | Status |
+|---|---|---|
+| Brightly Wired | NZ neurodiverse community platform, co-built with my husband. Umbrella for the two below | Planning, long-term |
+| bright-fit | ND-friendly employer directory + application tracker, for the adults still hiding who they are | In design |
+| Learning Companion | AI study companion shaped for ND brains | In design |
 
 → Full case studies and live demos at **[vixenz.dev](https://vixenz.dev)**
 
